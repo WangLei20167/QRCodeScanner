@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">收工回头看</string>
+    <string name="title_activity_view_history">ViewHistoryActivity</string>
+</resources>
